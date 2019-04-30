@@ -1,0 +1,17 @@
+{
+    "name": "Melijab.com",
+    "short_name": "Melijab",
+    "description": "Jadwal Liga Sepakbola Italia Terlengkap",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#5e35b1",
+    "theme_color": "#5e35b1",
+    "icons": [
+        {
+            "src": "logoku-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id" : "149783803968"
+}
