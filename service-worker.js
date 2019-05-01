@@ -10,7 +10,7 @@ workbox.precaching.precacheAndRoute([
     { url: './nav.html', revision: '1' },
     { url: './index.html', revision: '1' },
     { url: './freelogo.png', revision: '1' },
-    { url: './favicong.png', revision: '1' },
+    { url: './favicon.png', revision: '1' },
     { url: './manifest.json', revision: '1' },
     { url: './pages/home.html', revision: '1' },
     { url: './pages/scorers.html', revision: '1' },
