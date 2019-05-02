@@ -8,7 +8,7 @@
     "theme_color": "#5e35b1",
     "icons": [
         {
-            "src": "logoku-512.png",
+            "src": "freelogo.png",
             "sizes": "512x512",
             "type": "image/png"
         }
